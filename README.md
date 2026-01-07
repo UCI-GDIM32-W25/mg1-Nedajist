@@ -4,7 +4,7 @@
 ### Activity 1
 Start working on an assignment on the day that it is assigned. This reduces the likelihood of procrastination. 
 
-#### Activity 2
+### Activity 2
 1. 10
 2. 2
 3. These lines of code call the PrintMessage function, which prints "hello world" to Unity's console. This happens every frame.
