@@ -579,7 +579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78692814429bd4f79a92be7f923fb9e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1.5
+  _speed: 2.5
   _playerTransform: {fileID: 935932060}
   _plantPrefab: {fileID: 3170487426781443617, guid: 23db5aafea8cfc44292a4f21c686f50d, type: 3}
   _numSeeds: 5
